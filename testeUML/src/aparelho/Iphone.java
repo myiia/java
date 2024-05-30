@@ -1,8 +1,5 @@
 package aparelho;
 
-import funcionalidades.ReprodutorMusical;
-import funcionalidades.NavegadorInternet;
-import funcionalidades.ReprodutorMusical;
 import funcionalidades.device;
 
 public class Iphone {
